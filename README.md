@@ -1,8 +1,10 @@
 # GOLAN Browser 1.2.18
 
 [العربية](README.ar.md)
+[Usage and cost/PC FAQ](GUIDE.md)
 
-The complete source ZIP, unchanged APK and SHA-256 checksums are [release assets](https://github.com/dark9guna/golan-browser/releases). Download and extract `Golan-Browser-1.2.18-source.zip` to obtain the full project, then run the commands below from the extracted source root. The GitHub landing page may contain documentation only.
+
+The complete source ZIP, unchanged APK and SHA-256 checksums are [release assets](https://github.com/GOLAN2CODE/golan-browser/releases). Download and extract `Golan-Browser-1.2.18-source.zip` to obtain the full project, then run the commands below from the extracted source root. The GitHub landing page may contain documentation only.
 
 Native Android WebView browser, package `com.ibngolan.browser`, Android 7.0/API 24 or later. The existing universal APK contains ARM64, ARMv7, x86 and x86_64 native payloads. It includes the multilingual tiny Whisper speech model; no separate Arabic model download is required for that bundled recognition path.
 
